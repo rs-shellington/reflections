@@ -3,5 +3,12 @@ When would you want to use a remote repository rather than keeping all your work
  You are working on more than one computer (home/work).
  Collaborating with others.
  You want an offsite backup.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You wouldn't want an automatic update to clobber something you're working on.
+
+
  
  
